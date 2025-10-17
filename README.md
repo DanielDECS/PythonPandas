@@ -1,11 +1,31 @@
-# Curso de Python utilizando Pandas da Digital Innovation One
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
- 
- **Assuntos abordados neste curso**:
- 1. Python Básico
- 1. Estrutura de dados
- 1. Introdução a Biblioteca Pandas
- 1. Trabalhando com arquivos em Excel
- 1. Trabalhando com Datas
- 1. Visualização de dados
- 1. Análise Exploratória de dados
+# 📊 Python com Pandas
+
+Repositório contendo os projetos e exercícios do curso de **Python para Análise de Dados** da Digital Innovation One, utilizando a biblioteca **Pandas**.
+
+---
+
+## 🎯 Objetivo
+
+Capacitar iniciantes a:
+
+- Manipular dados em **DataFrames**  
+- Ler e escrever arquivos **CSV** e **Excel**  
+- Trabalhar com **datas** e séries temporais  
+- Realizar **Análise Exploratória de Dados (EDA)**  
+- Criar visualizações de dados  
+
+---
+
+## 📂 Estrutura do Repositório
+
+```plaintext
+PythonPandas/
+├── Notebooks/
+│   ├── notebook_01.ipynb
+│   ├── notebook_02.ipynb
+│   └── ...
+├── datasets/
+│   ├── dataset_01.csv
+│   ├── dataset_02.xlsx
+│   └── ...
+└── README.md
